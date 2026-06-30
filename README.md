@@ -17,4 +17,8 @@ python game.py
 # Author
 MichaelDz2001
 
-Some parts of the documentation were assisted by AI. Code was written by the author.
+# Credits / Acknowledgements
+This project was built following a YouTube tutorial. Some parts were adapted/modified by me.
+ - Author: Itproger
+ - Video series: https://www.youtube.com/watch?v=L-FyeHQwo4U&list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ
+ - Stack used: HTML, CSS, JavaScript
