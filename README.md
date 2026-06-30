@@ -16,4 +16,5 @@ python game.py
 
 # Author
 MichaelDz2001
+
 Some parts of the documentation were assisted by AI. Code was written by the author.
